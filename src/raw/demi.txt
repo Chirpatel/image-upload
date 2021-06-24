@@ -1,0 +1,1 @@
+Created file so that directory is created to save images
